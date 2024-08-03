@@ -15,7 +15,9 @@
   overflow: hidden;
   transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
-
+.header_item_icon a {
+    color: #000 !important;
+}
 /* Hover effect */
 .hover-effect:hover {
   transform: scale(1.1); /* Scales up the image */
